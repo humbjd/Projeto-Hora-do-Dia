@@ -31,3 +31,12 @@ footer{
     text-align: center;
     margin: 2em;
 }
+.botao__contar {
+    margin: 2em;
+    text-align: justify;
+    padding: 2em;
+    
+}
+.botao__contar:hover {
+    background-color: rgb(73, 184, 26);
+}
